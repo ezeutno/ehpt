@@ -44,7 +44,7 @@ h1, h2{
   color : white;
 }
 
-@media screen and (max-device-width: 640px), (max-width: 35.5em) {
+@media screen and (max-device-width: 720px), (max-width: 35.5em) {
   table {
     display: block;
   }
